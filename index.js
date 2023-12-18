@@ -74,7 +74,8 @@ app.use(
           "http://gravitaoasis.org",
           "https://gravitaoasis.org",
           "https://api.gravitaoasis.org",
-          "https://admin-gqxudn8oh-amit456789.vercel.app"
+          "https://admin-gqxudn8oh-amit456789.vercel.app",
+          "https://client-three-psi.vercel.app"
         ],
         credentials: true,
         methods: ["GET", "PUT", "POST", "PATCH", "DELETE"],
@@ -94,7 +95,8 @@ app.use(
           "http://api.gravitaoasis.org",
           "http://admin.gravitaoasis.org",
           "https://admin.gravitaoasis.org",
-          "https://admin-gqxudn8oh-amit456789.vercel.app"
+          "https://admin-gqxudn8oh-amit456789.vercel.app",
+          "https://client-three-psi.vercel.app"
 
         ],
         credentials: true,
